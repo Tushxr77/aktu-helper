@@ -1,0 +1,33 @@
+ const papersData = {
+  "Maths-1": [
+    "Maths-1 (2017-2018).pdf",
+    "Maths-1 (2018-2019).pdf",
+    "Maths-1 (2019-2020).pdf",
+    "Maths-1 (2020-2021).pdf",
+    "Maths-1 (2021-2022).pdf",
+    "Maths-1 (2022-2023).pdf",
+    "Maths-1 (2023-2024).pdf",
+    "Maths-1 (2024-2025).pdf",
+    "Maths-1 (2025-2026).pdf",
+  ],
+
+  "Basic Electrical Engineering": [
+    "BASIC ELECTRICAL ENGINEERING(2017-2018).pdf",
+    "BASIC ELECTRICAL ENGINEERING(2017-2018) Even.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2018-2019) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2018-2019) Even.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2019-2020) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2020-2021) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2021-2022) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2021-2022) Even.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2022-2023) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2022-2023) Even.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2023-2024) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2023-2024) Even.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2024-2025) odd.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2024-2025) Even.pdf",
+    "BASIC ELECTRICAL ENGINEERING(2025-2026) odd.pdf",
+  ],
+};
+
+export default papersData;
